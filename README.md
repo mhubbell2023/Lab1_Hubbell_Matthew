@@ -20,5 +20,4 @@ TaskSquirrel is an iOS app that allows users to create and complete tasks by att
 - View the attached photo on a separate screen
 
 ## Demo
-
-![TaskSquirrel Demo](task-squirrel-demo(1).gif)
+![TaskSquirrel Demo](lab-task-squirrel/task-squirrel-demo.gif(1))
